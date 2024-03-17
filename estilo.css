@@ -1,0 +1,49 @@
+h1{
+    background-color: blue;
+}
+
+#Olimpia{
+    color: red;
+}
+
+#Economia{
+    color: aquamarine;
+}
+
+#sports{
+    color: rgb(116, 255, 62);
+}
+#Games{
+    color: green;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: yellow;
+}
+
+*{
+    background-color: beige;
+}
+
+ol li{
+    padding: 0 auto;
+}
+
+.portal{
+    text-align: center;
+}
+
+.data{
+    position: absolute;top: 6780px;left: 0; 
+}
+
+.texto{
+    color: orange;
+}
+
+
